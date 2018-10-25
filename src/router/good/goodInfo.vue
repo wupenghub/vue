@@ -79,13 +79,6 @@
             mui(".mui-numbox").numbox()
         },
         methods: {
-            add() {
-                // this.$emit("change", mui(".mui-numbox").numbox().getValue() == 1 ? 2 : 1);
-
-            },
-            remove() {
-                this.$emit("change", -1);
-            },
             addIncart() {
                 this.ballFlag = !this.ballFlag;
                 var cartItem = {
