@@ -1,6 +1,6 @@
 const path = require("path");
 const VueLoaderPlugin = require('vue-loader/lib/plugin');
-var htmlWebpackPlugin = require('html-webpack-plugin')
+var htmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports={
     entry:path.join(__dirname,"./src/js/main.js"),
