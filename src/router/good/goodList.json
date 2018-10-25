@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "productName": "小米（Mi）小米Note 16G双网通版",
+    "currentPrice": "899",
+    "historyPrice": "999",
+    "descr": "热卖中",
+    "remaining": "60",
+    "imageUrl": "../../images/goods/mobilePhone.jpg"
+  },
+  {
+    "id": 2,
+    "productName": "小米（MI）小米电视4X 55英寸 L55M5-AD",
+    "currentPrice": "2299",
+    "historyPrice": "2399",
+    "descr": "精品",
+    "remaining": "600",
+    "imageUrl": "../../images/goods/computer.jpg"
+  },
+  {
+    "id": 3,
+    "productName": "佳能（Canon）EOS 800D 单反套机",
+    "currentPrice": "5299",
+    "historyPrice": "6299",
+    "descr": "精品",
+    "remaining": "489",
+    "imageUrl": "../../images/goods/xj.jpg"
+  },
+  {
+    "id": 4,
+    "productName": "JBL T280BT 入耳式蓝牙无线耳机",
+    "currentPrice": "488",
+    "historyPrice": "499",
+    "descr": "精品",
+    "remaining": "460",
+    "imageUrl": "../../images/goods/ej.jpg"
+  },
+  {
+    "id": 5,
+    "productName": "奥克斯 (AUX) 正1.5匹 一级能效 变频冷暖 黄金侠壁挂式空调挂机 微联控制 ",
+    "currentPrice": "2599",
+    "historyPrice": "3599",
+    "descr": "精品",
+    "remaining": "480",
+    "imageUrl": "../../images/goods/kt.jpg"
+  }
+]
